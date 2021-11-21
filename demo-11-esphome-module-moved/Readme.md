@@ -1,3 +1,6 @@
+# THIS REPO WAS MOVED TO:
+https://github.com/crgarcia12/electronics-homeassistant-lightscontroll
+
  # Home automation led controller custom module
 
  This circuit controll home lights following these rules:
